@@ -1,7 +1,7 @@
 # Motion Tracking for Real-Time Feedback in Physiotherapy and Athletic Rehabilitation
 ## Overview
 
-With global healthcare systems facing increasing pressure—especially in countries with large populations and limited access to specialised services such as physiotherapy, there is a growing need for scalable, affordable solutions. The COVID-19 pandemic further exposed vulnerabilities in healthcare accessibility. Meanwhile, advances in wearable technology and smart devices have demonstrated the potential for decentralised, self-managed health monitoring. The Individual Project software package has been developed to offer an affordable and intuitive platform for physiotherapy and rehabilitation from the comfort of ones home, without the need for direct supervision from a medical professional. 
+Healthcare systems around the world are under growing pressure, especially in countries with large populations and limited access to specialised services like physiotherapy. The COVID-19 pandemic didn’t just strain these systems — it exposed major gaps in healthcare accessibility. Meanwhile, rapid advances in wearable technology and smart devices are proving that decentralised, self-managed health monitoring is not just possible, but practical. The Individual Project software package steps in to meet this need, offering an affordable, easy-to-use platform that lets people take charge of their physiotherapy and rehabilitation at home — no medical professional required.
 
 The code found in this repository includes:
   1. Embedded Software for Motion Tracking Device
